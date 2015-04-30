@@ -235,6 +235,26 @@ header
     margin-bottom: 0.5rem;
 }
 
+#logo
+{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+#logo img
+{
+    float: left;
+    margin-top: 5rem;
+}
+
+.site-branding
+{
+    display: block;
+    float: left;
+    margin-top: 19rem;
+    text-align: right;
+}
+
 
 /*--------------------------------------------------------------
 # About
