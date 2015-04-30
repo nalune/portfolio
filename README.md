@@ -1,4 +1,4 @@
-Daria Zolotko personal web page
+Daria Zolotko's personal web page
 
 dependencies:
 * Wordpress - https://www.wordpress.org/
