@@ -73,6 +73,10 @@ h1
      text-transform: uppercase;
      font-size: 3rem;
      color: #9DE0AD;
+     
+     text-shadow: 1px 1px #9F6F93, 
+                2px 2px #9F6F93, 
+                3px 3px #9F6F93;
 }
 
 h2 {
