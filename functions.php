@@ -103,6 +103,8 @@ function portfolio_scripts() {
 	wp_enqueue_style( 'portfolio-style', get_stylesheet_uri() );
         
         wp_enqueue_style('portfolio-font-awesome', 'http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
+        
+        wp_enqueue_style( 'portfolio-google-fonts', '//fonts.googleapis.com/css?family=Open+Sans:400' );
 
 	wp_enqueue_script( 'portfolio-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20120206', true );
         

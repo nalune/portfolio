@@ -31,7 +31,7 @@
 		</nav><!-- #site-navigation -->
                 
                 <div id="logo">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo2.png" />
                 </div>
             
 		<div class="site-branding">
