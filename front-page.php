@@ -30,6 +30,10 @@
 			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
 		</nav><!-- #site-navigation -->
                 
+                
+                    
+                </div>
+                
                 <div id="logo">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/logo2.png" />
                 </div>
@@ -44,7 +48,7 @@
 		
 	</header>
     
-    
+   <div id="bg">
     <div class="wrapper">
            <div class="about" id="about">
             
@@ -212,6 +216,7 @@
         
         
     </div>
+  </div>     
     
     <?php get_footer(); ?>
  
