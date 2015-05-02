@@ -22,20 +22,6 @@ $("div.label-inside input, div.label-inside textarea").focus(function(){
 		}
 	});
         
-  
-
-//  $('.ninja-forms-form').submit(function () {
-//         $('html, body').animate({
-//                    scrollTop: $("#contact").offset().top
-//                }, 2000);
-//       });
-
-//    $('.ninja-forms-form').submit(function (e) {
-//       
-//     
-//     });
-     
-     
 
 });
 

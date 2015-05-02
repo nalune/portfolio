@@ -111,6 +111,7 @@ function portfolio_scripts() {
         wp_enqueue_script( 'about', get_template_directory_uri() . '/js/about.js', array(), '20150419', false );
         wp_enqueue_script( 'skills', get_template_directory_uri() . '/js/skills.js', array(), '20150419', false );
         wp_enqueue_script( 'portfolio', get_template_directory_uri() . '/js/portfolio.js', array(), '20150422', false );
+        wp_enqueue_script( 'random', get_template_directory_uri() . '/js/scripts.js', array(), '20150501', false );
 
 	wp_enqueue_script( 'portfolio-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
 

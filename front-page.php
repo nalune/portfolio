@@ -23,8 +23,10 @@
 
 <body <?php body_class(); ?>>
     
+    <a href="#" class="scrollToTop">go to top</a>
+    
 	<header>
-           
+            <div class='clearfix'>
                 <nav id="site-navigation" class="main-navigation" role="navigation">
 			
 			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
@@ -32,10 +34,10 @@
                 
                 
                     
-                </div>
+                
                 
                 <div id="logo">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo2.png" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo3.png" />
                 </div>
             
 		<div class="site-branding">
@@ -45,7 +47,7 @@
     		
 		</div><!-- .site-branding -->
             
-		
+            </div>
 	</header>
     
    <div id="bg">
