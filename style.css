@@ -196,6 +196,7 @@ h2 {
 
 .main-navigation ul li a {
 	padding: 8px 0;
+        outline: 0;
 }
 
 .main-navigation ul li a:after {
@@ -237,8 +238,8 @@ h2 {
   width: 100px;
   height: 150px;
   position: fixed;
-  bottom:15px;
-  right:30px;
+  bottom:-50px;
+  right:10px;
   z-index: 9000;
   display: none;
   
@@ -567,4 +568,62 @@ footer
 }
 
 
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
 
+@media (max-width: 600px)
+{
+    .main-navigation
+    {
+        padding-top: 1rem;
+        margin-bottom: 2rem;
+    }
+    .main-navigation ul
+    {
+        display: inline;
+        width: 100%;
+        
+    }
+    
+    .main-navigation ul li
+    {
+        margin: 0 1rem;
+        padding: 0.5rem 0;
+    }
+    
+        #logo
+    {
+       
+    }
+
+    #logo img
+    {
+      margin: 0;
+      width: 25%;
+    
+    }
+    
+    .site-branding
+    {
+       margin: 0 0.5rem 0 0;
+    }
+    
+    .site-branding h1
+    {
+        font-size: 1.2rem;
+        text-align: right;
+    }
+    
+    .site-branding h2
+    {
+        font-size: 1rem;
+    }
+    
+    header
+    {
+        padding-bottom: 2rem;
+    }
+
+    
+}
