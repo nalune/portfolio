@@ -574,6 +574,17 @@ footer
 
 @media (max-width: 600px)
 {
+    
+    body
+    {
+        font-size: 0.8rem;
+    }
+    
+    .wrapper
+    {
+        border: none;
+    }
+    
     .main-navigation
     {
         padding-top: 1rem;
@@ -599,7 +610,7 @@ footer
 
     #logo img
     {
-      margin: 0;
+      margin: 0 0 0 0.5rem;
       width: 25%;
     
     }
@@ -624,6 +635,118 @@ footer
     {
         padding-bottom: 2rem;
     }
-
+    
+    
+    .headingContainer
+    {
+        padding: 2rem 0;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .headingContainer h2
+    {
+        font-size: 1rem;
+    }
+    
+    .headingContainer img
+    {
+        width: 25%;
+        
+    }
+    
+    .intro
+    {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 1rem;
+        
+    }
+    
+    #sillyFace
+    {
+        margin: 0;
+    }
+    
+    #sillyFace img
+    {
+        width: 100%;
+    }
+    
+    #skills
+    {
+        margin-top: 0;
+    }
+    
+     p
+    {
+        font-size: 0.8rem;
+        line-height: normal;
+        text-align: justify;
+        
+    }
+    
+    .button.left
+    {
+        display: none;
+        visibility: hidden;
+    }
+    
+    .button.right
+    {
+        margin: 0;
+    }
+    
+    .button.right a
+    {
+        padding: 0.5rem;
+    }
+    
+    
+    #skillBarsWrapper
+    {
+        width: 90%;
+    }
+    
+    #skillsExtra
+    {
+        margin: 0;
+        width: 90%;
+    }
+    
+    #skillsExtra ul
+    {
+        
+        font-size: 0.8rem;
+    }
+    
+    #portfolio
+    {
+        width: 95%;
+    }
+    
+    #portfolio p
+    {
+        padding: 0 1rem;
+    }
+    
+    
+    .scrollToTop
+    {
+        display: none;
+        visibility: hidden;
+    }
+    
+    .project img
+    {
+        width: 100%;
+    }
+    
+    .social_box
+    {
+        margin-bottom: 1rem;
+    }
+    
+    
     
 }
