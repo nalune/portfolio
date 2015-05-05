@@ -603,10 +603,6 @@ footer
         padding: 0.5rem 0;
     }
     
-        #logo
-    {
-       
-    }
 
     #logo img
     {
@@ -749,4 +745,56 @@ footer
     
     
     
+}
+
+
+@media (min-width: 600px) and (max-width: 800px)
+{
+     #logo img
+    {
+      margin: 0 0 0 0.5rem;
+      width: 25%;
+    
+    }
+    
+    .site-branding
+    {
+       margin: 2rem 0.5rem 0 2rem;
+    }
+    
+    .site-branding h1
+    {
+        font-size: 3rem;
+        text-align: right;
+    }
+    
+    .site-branding h2
+    {
+        font-size: 1rem;
+    }
+    
+    .scrollToTop
+    {
+        display: none;
+        visibility: hidden;
+    }
+    
+     p
+    {
+        
+        line-height: normal;
+        text-align: justify;
+        
+    }
+    
+    .button.left
+    {
+        display: none;
+        visibility: hidden;
+    }
+    
+    .project img
+    {
+        width: 100%;
+    }
 }
