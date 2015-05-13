@@ -175,6 +175,14 @@ h5
     padding: 1rem 3rem;
 }
 
+.button.right a:before
+    {
+        font-family: 'FontAwesome';
+        content: '\f019';
+        margin:0 5px 0 -15px;
+        color: #45ADA8;
+    }
+
 
 
 /*--------------------------------------------------------------
@@ -701,6 +709,8 @@ footer
     {
         padding: 0.5rem;
     }
+    
+    
     
     
     #skillBarsWrapper

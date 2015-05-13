@@ -78,7 +78,7 @@
                     </div>
                             
                     <div class="button right">
-                        <a href="http://www.dariazolotko.com/wp-content/uploads/2015/05/DariaZolotko_JuniorWebDeveloper.pdf" target="_blank">
+                       <a href="http://www.dariazolotko.com/wp-content/uploads/2015/05/DariaZolotko_JuniorWebDeveloper.pdf" target="_blank">
                             Download my resume
                         </a>
                     </div>  
