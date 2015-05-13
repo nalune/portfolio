@@ -163,6 +163,7 @@
                     
                 
                 <div class="project">
+                    <h5>Designer's portfolio</h5>
                     <a href="http://www.kingamila.com"> 
                         <img src="<?php echo get_template_directory_uri(); ?>/images/kinga.jpg" />
                         <div class="caption"><p>Site-portfolio for my friend Kinga who is a designer. HTML, CSS, Jquery</p></div>
@@ -172,6 +173,7 @@
                 </div>
                 
                 <div class="project">
+                    <h5>Designer's portfolio/previous</h5>
                     <a href="http://www.kinga.dariazolotko.com"> 
                         <img src="<?php echo get_template_directory_uri(); ?>/images/kinga2.jpg" />
                         <div class="caption"><p>Previous Kinga's portfolio site version that was never in use. HTML, CSS, Jquery, Custom design from scratch</p></div>
@@ -181,6 +183,7 @@
                 </div>
                 
                 <div class="project">
+                    <h5>HTML5 ToDo List</h5>
                     <a href="http://www.todolist.dariazolotko.com"> 
                         <img src="<?php echo get_template_directory_uri(); ?>/images/todo.png" />
                         <div class="caption"><p>HTML5 ToDo list that uses localStorage. Includes drag-and-drop, clear and delete features. </p></div>
@@ -188,7 +191,7 @@
                 </div>
                  
                 <div class="project">
-                    
+                    <h5>Angular.js application</h5>
                         <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Angular.js web application that can handle multiple users, registration, and real-time data</p></div>
                     
@@ -196,21 +199,21 @@
              
                 
                 <div class="project">
-                    
+                    <h5>Bootstrap application</h5>
                         <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Bootstrap app, MindMaps and Balsamiq Mockups, Scaffolding, Less</p></div>
                     
                 </div>
                 
                 <div class="project">
-                    
+                    <h5>Node.js & Express.js application</h5>
                         <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Node.js and Express.js server-side app</p></div>
                     
                 </div>
                 
                 <div class="project">
-                    
+                    <h5>JS landing page for a hotel</h5>
                         <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Landing page for Landon hotel. Javascript, Node.js</p></div>
                     

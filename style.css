@@ -88,6 +88,12 @@ h2 {
   font-family: Futura, Verdana, sans-serif;
 }
 
+h5
+{
+    text-transform: uppercase;
+    color: #547980;
+}
+
 .wrapper
 {
   max-width:1024px;
