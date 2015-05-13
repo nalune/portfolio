@@ -15,7 +15,7 @@
                     
                     <div id="social clearfix">
                         <div id="email" class="social_box">
-                             <a href="mailto:nalune@gmail.com.com">
+                             <a href="mailto:daria.zolotko@gmail.com.com">
                                     <i class="fa fa-envelope-o fa-3x"></i>
                              </a>
                        </div>

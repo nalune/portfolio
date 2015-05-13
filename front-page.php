@@ -179,6 +179,13 @@
                     
                     
                 </div>
+                
+                <div class="project">
+                    <a href="http://www.todolist.dariazolotko.com"> 
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/todo.png" />
+                        <div class="caption"><p>HTML5 ToDo list that uses localStorage. Includes drag-and-drop, clear and delete features. </p></div>
+                    </a>
+                </div>
                  
                 <div class="project">
                     
