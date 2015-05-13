@@ -78,7 +78,7 @@
                     </div>
                             
                     <div class="button right">
-                        <a href="http://localhost/onepage/wp-content/uploads/2015/04/1.pdf" target="_blank">
+                        <a href="http://www.dariazolotko.com/wp-content/uploads/2015/05/DariaZolotko_JuniorWebDeveloper.pdf" target="_blank">
                             Download my resume
                         </a>
                     </div>  
@@ -159,6 +159,7 @@
                 <p>I do not have a "real world" commercial experience yet, but I consider myself a 
                     useful entry-level web developer who can get things done.</p>
                 <p>Hover over thumbnails to see the details or click to check out the live site</p>
+                <p>Several projects are not online yet, but the info is present and I'm gonna add them soon.</p>
                     
                 
                 <div class="project">
@@ -167,32 +168,43 @@
                         <div class="caption"><p>Site-portfolio for my friend Kinga who is a designer. HTML, CSS, Jquery</p></div>
                     </a>
                     
+                    
                 </div>
                 
                 <div class="project">
+                    <a href="http://www.kinga.dariazolotko.com"> 
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/kinga2.jpg" />
+                        <div class="caption"><p>Previous Kinga's portfolio site version that was never in use. HTML, CSS, Jquery, Custom design from scratch</p></div>
+                    </a>
                     
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/angular.jpg" />
+                    
+                </div>
+                 
+                <div class="project">
+                    
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Angular.js web application that can handle multiple users, registration, and real-time data</p></div>
                     
                 </div>
+             
                 
                 <div class="project">
                     
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/bootstrap.jpg" />
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Bootstrap app, MindMaps and Balsamiq Mockups, Scaffolding, Less</p></div>
                     
                 </div>
                 
                 <div class="project">
                     
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/node.jpg" />
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Node.js and Express.js server-side app</p></div>
                     
                 </div>
                 
                 <div class="project">
                     
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/landon.jpg" />
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
                         <div class="caption"><p>Landing page for Landon hotel. Javascript, Node.js</p></div>
                     
                 </div>
