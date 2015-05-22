@@ -707,7 +707,12 @@ footer
     
     .button.right a
     {
-        padding: 0.5rem;
+        padding: 0.3rem 1.3rem;
+    }
+    
+    .textWithButtons
+    {
+        width: 60%;
     }
     
     
@@ -806,6 +811,8 @@ footer
         display: none;
         visibility: hidden;
     }
+    
+    
     
     .project img
     {

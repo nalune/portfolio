@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
         var facts = new Array("I can lift 200 lbs 5 times",
         "I have naturally curly hair", 
         "I lived in Russia, Ukraine, China and US", 
-        "I walk 10000 steps every day", 
+        "I walk at least 10000 steps every day", 
         "I am a Buddhist",
         "I am still afraid of the dark, especially when I let my imagination run wild",
         "I am completely a cat person",
