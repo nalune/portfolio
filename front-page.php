@@ -167,12 +167,20 @@
                         <img src="<?php echo get_template_directory_uri(); ?>/images/arrow2.png" />
                     </div>
                 
-                <p>I do not have a "real world" commercial experience yet, but I consider myself a 
-                    useful entry-level web developer who can get things done.</p>
                 <p>Hover over thumbnails to see the details or click to check out the live site</p>
                 <p>Several projects are not online yet, but the info is present and I'm gonna add them soon.</p>
                     
                 
+                <div class="project">
+                    <h5>Hotel Landing Page</h5>
+                    <a href="http://www.dariazolotko.com/echohotel"> 
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/echohotel.jpg" />
+                        <div class="caption"><p>Fully responsive landing page built with SASS, Gulp, Compass and Susy grid framework</p></div>
+                    </a>
+                    
+                    
+                </div>
+
                 <div class="project">
                     <h5>Designer's portfolio</h5>
                     <a href="http://www.kingamila.com"> 
@@ -200,35 +208,26 @@
                         <div class="caption"><p>HTML5 ToDo list that uses localStorage. Includes drag-and-drop, clear and delete features. </p></div>
                     </a>
                 </div>
+                
+                <div class="project">
+                    <h5>Sass, Compass and Susy website</h5>
+                    <a href="http://www.sasscompass.dariazolotko.com"> 
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/sasscompass.png" />
+                        <div class="caption"><p>A simple fully smoothly-sexy responsive landing page built with Sass, Compass and Susy layout. Developed using Grunt.js task manager </p></div>
+                    </a>
+                </div>
                  
                 <div class="project">
-                    <h5>Angular.js application</h5>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
-                        <div class="caption"><p>Angular.js web application that can handle multiple users, registration, and real-time data</p></div>
+                    <h5>Reaction Tester</h5>
+                    <a href="http://www.dariazolotko.com/reactiontester"> 
+                        <img src="<?php echo get_template_directory_uri(); ?>/images/reaction.png" />
+                        <div class="caption"><p>Pure Javascript mini-game</p></div>
+                    </a>
                     
                 </div>
              
                 
-                <div class="project">
-                    <h5>Bootstrap application</h5>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
-                        <div class="caption"><p>Bootstrap app, MindMaps and Balsamiq Mockups, Scaffolding, Less</p></div>
-                    
-                </div>
                 
-                <div class="project">
-                    <h5>Node.js & Express.js application</h5>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
-                        <div class="caption"><p>Node.js and Express.js server-side app</p></div>
-                    
-                </div>
-                
-                <div class="project">
-                    <h5>JS landing page for a hotel</h5>
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/comingsoon.png" />
-                        <div class="caption"><p>Landing page for Landon hotel. Javascript, Node.js</p></div>
-                    
-                </div>
                     
                 
             </div>
